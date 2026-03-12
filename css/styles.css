@@ -357,7 +357,7 @@ h2 em { font-style: italic; color: var(--muted); }
   content: '';
   position: absolute;
   inset: 0;
-  background: linear-gradient(135deg, rgba(201,107,60,0.05), transparent);
+  background: linear-gradient(135deg, rgba(177, 149, 184, 0.05), transparent);
   opacity: 0;
   transition: opacity 0.3s;
 }
